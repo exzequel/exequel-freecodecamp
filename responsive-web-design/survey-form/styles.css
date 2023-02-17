@@ -34,3 +34,8 @@ body::before {
     background-repeat: no-repeat;
     background-position: center;
 }
+
+.container {
+    width: 100%;
+    margin: 3.125rem auto 0 auto;
+}
