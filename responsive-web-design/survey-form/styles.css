@@ -35,6 +35,12 @@ body::before {
     background-position: center;
 }
 
+@media (min-width: 576px) {
+    .container {
+        max-width: 540px;
+    }
+}
+
 .container {
     width: 100%;
     margin: 3.125rem auto 0 auto;
