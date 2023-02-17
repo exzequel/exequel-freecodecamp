@@ -63,3 +63,9 @@ h1, p {
 p {
     font-size: 1.125rem;
 }
+
+form {
+    background: var(--color-darkblue-alpha);
+    padding: 2.5rem 0.625rem;
+    border-radius: 0.25rem;
+}
